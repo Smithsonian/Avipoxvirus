@@ -9,7 +9,7 @@ Pipeline to identify *Avipoxvirus* sequences in DNA libraries
 [![DOI](https://zenodo.org/badge/667565062.svg)](https://doi.org/10.5281/zenodo.14010731)
 
 ## Citation  
-Eibner-Gehbardt MW, Fleischer RC, Campana MG. In prep. A historical Hawaiian Avipoxvirus genome reconstructed from an 1898 museum specimen.  
+Eibner-Gehbardt MW, Fleischer RC, Campana MG. 2025. A historical Hawaiian *Avipoxvirus* genome reconstructed from an 1898 museum specimen. *iScience*. __28__: 112153. DOI: [10.1016/j.isci.2025.112153](https://doi.org/10.1016/j.isci.2025.112153).  
 
 ## License  
 The software is made available under the Smithsonian Institution [terms of use](https://www.si.edu/termsofuse).  
